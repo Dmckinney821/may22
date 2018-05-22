@@ -22,3 +22,8 @@ $('[data-nav-items]').each(function(index.item) {
   $navItems.each(function(index, item) {
   // do stuff with each item
   });
+how to check if jQuery is already working
+make sure it is connected
+it will auto complete if there
+conversion from DOM to jQuery DOM
+variables remain the same
